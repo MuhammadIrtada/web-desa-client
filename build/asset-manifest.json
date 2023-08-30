@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.888eb53e.css",
+    "main.js": "/static/js/main.3e08b317.js",
+    "static/media/about.png": "/static/media/about.caf60b12083ade4d2d0d.png",
+    "static/media/balai-desa.png": "/static/media/balai-desa.5961f98dc1362d6f7957.png",
+    "static/media/visi misi.jpg": "/static/media/visi misi.f59e30a4e9b4c0e906ac.jpg",
+    "static/media/bg-cl-primary.png": "/static/media/bg-cl-primary.af86660db70cb6ea3f92.png",
+    "static/media/bg-cl-secondary.png": "/static/media/bg-cl-secondary.c3b2610628a0bb492ac7.png",
+    "static/media/logo-desa.png": "/static/media/logo-desa.686d450a7ccc23ca7cc3.png",
+    "index.html": "/index.html",
+    "static/media/icon-logout.svg": "/static/media/icon-logout.9311110e90a22b2d99c2acce90a1a4c8.svg",
+    "main.888eb53e.css.map": "/static/css/main.888eb53e.css.map",
+    "main.3e08b317.js.map": "/static/js/main.3e08b317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.888eb53e.css",
+    "static/js/main.3e08b317.js"
+  ]
+}
