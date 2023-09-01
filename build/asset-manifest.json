@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.888eb53e.css",
-    "main.js": "/static/js/main.13928a56.js",
+    "main.js": "/static/js/main.d15c4ffb.js",
     "static/media/about.png": "/static/media/about.caf60b12083ade4d2d0d.png",
     "static/media/balai-desa.png": "/static/media/balai-desa.5961f98dc1362d6f7957.png",
     "static/media/visi misi.jpg": "/static/media/visi misi.f59e30a4e9b4c0e906ac.jpg",
@@ -11,10 +11,10 @@
     "index.html": "/index.html",
     "static/media/icon-logout.svg": "/static/media/icon-logout.9311110e90a22b2d99c2acce90a1a4c8.svg",
     "main.888eb53e.css.map": "/static/css/main.888eb53e.css.map",
-    "main.13928a56.js.map": "/static/js/main.13928a56.js.map"
+    "main.d15c4ffb.js.map": "/static/js/main.d15c4ffb.js.map"
   },
   "entrypoints": [
     "static/css/main.888eb53e.css",
-    "static/js/main.13928a56.js"
+    "static/js/main.d15c4ffb.js"
   ]
 }
